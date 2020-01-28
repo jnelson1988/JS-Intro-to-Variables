@@ -147,3 +147,5 @@ foo4 = 4;
 foo5 = 5;
 foo6 = 6;
 // foo6 = 6; WILL NOT WORK const = constant
+
+// hello
